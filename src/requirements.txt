@@ -1,0 +1,16 @@
+celery
+kombu
+tornado
+werkzeug
+pyspark==3.2.1
+SQLAlchemy
+wtforms
+
+psycopg
+pandas
+apache-airflow
+datetime
+requests
+pandasql
+urllib3
+traceback2
